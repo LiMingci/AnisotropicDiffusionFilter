@@ -240,3 +240,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Some Test Data
+*.jpg
+*.png
+*.tif
+
+
